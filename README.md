@@ -1,5 +1,11 @@
 # Python-LCA2
 
+**Contributors:**
+Diganta Dantale, roll number- 67
+Anish Ghodekar, 71
+Swanandi Wadghule, 72
+Namya Prasad, 74
+
 **CGPA Calculator and Target GPA Predictor**
 
 **Overview**
